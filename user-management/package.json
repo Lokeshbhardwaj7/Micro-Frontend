@@ -31,6 +31,6 @@
     "ts-loader": "^9.5.1",
     "fork-ts-checker-webpack-plugin": "^9.0.2",
     "webpack-bundle-analyzer": "^4.10.2",
-    "@module-federation/enhanced": "^1.2.4"
+    "@module-federation/enhanced": "^0.18.4"
   }
 }
